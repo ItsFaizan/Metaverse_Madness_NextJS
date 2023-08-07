@@ -31,7 +31,7 @@ const Explore = () => {
          {...world}
          index={index}
          active={active}
-         handleClicked={setActive}
+         handleClick={setActive}
          />
          ))}
     </div>  
